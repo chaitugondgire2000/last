@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+.card .col-4 .mx-2 .mt-4{
+    background-color: rgb(212, 209, 245);
+}
+.row{
+    background-color: rgb(249, 213, 213);
+}
